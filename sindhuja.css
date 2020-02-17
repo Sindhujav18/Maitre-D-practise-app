@@ -35,12 +35,21 @@ input[type=number] {
 }
 #output >* {
     padding: 6px 0;
-    flex-basis: 50%;
+    flex-basis: 35%;
     flex-wrap: wrap
 }
 input[type=submit] {
-    flex-basis: 50%;
+    flex-basis: 100%;
     border-radius: 0px;
     font-size: 24px;
     color: rgb(47, 47, 228);
 }
+footer{
+    background-color: rgb(213, 213, 248);
+    color:red;
+    width: 100%;
+    text-align: center;
+}
+
+
+
